@@ -12,6 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-
-rootProject.name = "TaskFlowStudio"
+rootProject.name = "SpaceDefender"
 include(":app")
